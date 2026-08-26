@@ -1,10 +1,8 @@
 # Elijah Butler
 
-I build software for real operations. Contracts, billing, integrations, sync, deployment, and recovery are usually where the interesting problems start.
+I build software for real operations.
 
-I spend most of my time on business software, AI developer tools, and self-hosted infrastructure. I care less about a polished demo than whether the system still makes sense when something breaks.
-
-## What I'm building
+I spend most of my time on business software, AI developer tools, and self-hosted infrastructure. 
 
 ### [Reglet](https://github.com/elijahbutler/reglet)
 
@@ -16,4 +14,4 @@ BranchForge is an experiment in making agent decisions less opaque. It makes age
 
 ## How I work
 
-TypeScript and React are my defaults. I reach for Bun, Python, Swift, Tauri, Docker, and Cloudflare when the job calls for them. I also run my own infrastructure and, apparently, more Minecraft servers than expected.
+TypeScript and React are my defaults. I reach for Bun, Python, Swift, Tauri, and Docker when the job calls for them. 
