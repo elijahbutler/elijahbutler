@@ -1,16 +1,23 @@
-## Hi there 👋
+# Elijah Butler
 
-<!--
-**elijahbutler/elijahbutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer and operator building practical software for real businesses.
 
-Here are some ideas to get you started:
+I like software that has to survive contact with real operations: contracts, billing, sync, deployment, recovery, and the occasional Minecraft server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### [Reglet](https://github.com/elijahbutler/reglet)
+
+A local-first manager for AI-agent rules, skills, and MCP configurations. Reglet keeps one versioned source of truth and renders reviewed changes across supported coding tools.
+
+### [BranchForge](https://github.com/elijahbutler/branchforge)
+
+An experimental deliberation system that helps AI agents compare competing approaches, verify claims, and preserve an auditable decision record.
+
+## Working with
+
+TypeScript, React, Bun, Python, Swift, Tauri, Docker, Cloudflare, and self-hosted infrastructure.
+
+## Current focus
+
+AI development tools and dependable software for real business workflows.
