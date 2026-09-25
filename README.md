@@ -6,7 +6,7 @@ I spend most of my time on business software, AI developer tools, and self-hoste
 
 ### [Sundial](https://github.com/elijahbutler/sundial-website)
 
-I'm building Sundial for venues that manage inquiries, events, and invoices. Its public website includes an interactive sample dashboard with made-up data; the product application is separate.
+I'm building Sundial for venues that manage inquiries, events, and invoices. 
 
 ### [Metatype](https://github.com/elijahbutler/metatype)
 
@@ -15,7 +15,3 @@ I built Metatype to experiment with liquid lettering in the browser. You can mov
 ### [BranchForge](https://github.com/elijahbutler/branchforge)
 
 BranchForge is an experiment in making agent decisions less opaque. It makes agents explore real alternatives, keep their evidence, and leave behind a decision you can audit.
-
-## How I work
-
-TypeScript and React are my defaults. I reach for Bun, Python, Swift, Tauri, and Docker when the job calls for them. 
