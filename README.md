@@ -4,9 +4,9 @@ I build software for real operations.
 
 I spend most of my time on business software, AI developer tools, and self-hosted infrastructure. 
 
-### [Reglet](https://github.com/elijahbutler/reglet)
+### [Metatype](https://github.com/elijahbutler/metatype)
 
-I built Reglet because I was tired of maintaining the same agent rules, skills, and MCP configuration in half a dozen places. It keeps one versioned source of truth and turns every provider update into a change you can review.
+I built Metatype to experiment with liquid lettering in the browser. You can move individual letters, tune how their shapes merge, and export the result as SVG or PNG. [Try the editor](https://elijahbutler.github.io/metatype/).
 
 ### [BranchForge](https://github.com/elijahbutler/branchforge)
 
