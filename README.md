@@ -4,6 +4,10 @@ I build software for real operations.
 
 I spend most of my time on business software, AI developer tools, and self-hosted infrastructure. 
 
+### [Sundial](https://github.com/elijahbutler/sundial-website)
+
+I'm building Sundial for venues that manage inquiries, events, and invoices. Its public website includes an interactive sample dashboard with made-up data; the product application is separate.
+
 ### [Metatype](https://github.com/elijahbutler/metatype)
 
 I built Metatype to experiment with liquid lettering in the browser. You can move individual letters, tune how their shapes merge, and export the result as SVG or PNG. [Try the editor](https://elijahbutler.github.io/metatype/).
